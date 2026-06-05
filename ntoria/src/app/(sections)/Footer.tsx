@@ -122,7 +122,7 @@ export function Footer() {
         <div className="container" style={{ paddingTop: "0.85rem", paddingBottom: "0.85rem" }}>
           <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2" style={{ textAlign: "center" }}>
             <p style={{ fontSize: "0.75rem", color: "rgba(255,255,255,0.42)" }}>© {year} NToria. Todos os direitos reservados.</p>
-            <p style={{ fontSize: "0.75rem", color: "rgba(255,255,255,0.42)" }}>CNPJ: 48.634.70/0001-07</p>
+            <p style={{ fontSize: "0.75rem", color: "rgba(255,255,255,0.42)" }}>CNPJ: 58.845.676/0001-05</p>
           </div>
         </div>
       </div>
