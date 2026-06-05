@@ -12,8 +12,8 @@ const stats = [
 ];
 
 const members = [
-  { initial: "N", name: "Nathàlia Camargo Braga", role: "Marketing Digital · Co-fundadora", gradient: "linear-gradient(135deg, #ff6b8a 0%, #e8315a 100%)", shadow: "rgba(232,49,90,0.18)" },
-  { initial: "T", name: "Thaynã Nunes de Alvarenga", role: "Desenvolvedora · Co-fundadora", gradient: "linear-gradient(135deg, #60a5fa 0%, #1a3a6b 100%)", shadow: "rgba(26,58,107,0.18)" },
+  { initial: "N", name: "Nathália Camargo Braga", role: "Marketing Digital · Co-fundadora", gradient: "linear-gradient(135deg, #ff6b8a 0%, #e8315a 100%)", shadow: "rgba(232,49,90,0.18)" },
+  { initial: "T", name: "Thayná Nunes de Alvarenga", role: "Desenvolvedora · Co-fundadora", gradient: "linear-gradient(135deg, #60a5fa 0%, #1a3a6b 100%)", shadow: "rgba(26,58,107,0.18)" },
 ];
 
 const fadeUp = (delay = 0) => ({
